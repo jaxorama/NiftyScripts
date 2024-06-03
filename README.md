@@ -5,6 +5,7 @@ PDF2Word.py
 ===========
 python.exe PDF2Word.py C:\PDFs<br>
 This converts all the PDF files in the C:\PDFs folder to docx Word documents. <br>
+Better than using paid sites like zamzar which cost a lot and limit the number of conversions per day. 
 
 WordleSolver.py
 ===============
