@@ -20,3 +20,7 @@ python.exe words_alpha.txt abcdefg a<br>
 Provide the word list as first parameter, all the letters as second parameter and central letter as third parameter.<br>
 The script will generate several options. Also list all the possible pangrams in the end. <br>
 Credit: the word list is taken from https://github.com/dwyl/english-words/blob/master/words_alpha.txt
+
+dbdump.py
+=========
+Dumps the contents of a SQLite3 database in tabulated form. Needs the use of tabulate python library.
